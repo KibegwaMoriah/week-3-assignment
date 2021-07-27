@@ -29,7 +29,4 @@ $(document).ready(function(){
     $("#product").slideUp('1000');
     $("#product-img").slideDown('1000');
   });
-//portfolio
-
-
 });
