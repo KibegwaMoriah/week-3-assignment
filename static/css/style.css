@@ -1,0 +1,65 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,600,700");
+
+.banner{
+  background-image: url("../backgrounds/h_img.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;  
+  color: white;
+  text-align: center;
+  padding-top:19%; 
+ 
+}
+
+#anime{
+  padding-top : 15px;
+  margin-top: 10%;
+  padding-bottom: 20px; 
+}
+
+.about-us{
+  text-align: center;
+  padding-bottom: 25px;
+  padding-top:35px;
+}
+.services{
+  text-align: center;
+  background-image: url("../backgrounds/s_image.jpg");
+  color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 10%; 
+  padding-bottom: 10%;
+}
+
+.what-we-do{
+	text-align: center;
+}
+
+.title-what-we-do{
+	text-align: center;
+}
+
+#product, #development, #design{
+  display: none;
+}
+
+.portfolio-section{
+	text-align: center;
+}
+
+.footer-section{
+	text-align: center;
+	padding-top: 7%;
+}
+
+.contact-section{
+  background-image: url('../backgrounds/c_image.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+}
